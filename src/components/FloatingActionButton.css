@@ -1,0 +1,22 @@
+.fab {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  font-size: 16px;
+  cursor: pointer;
+  z-index: 1000;
+  transition: font-size 0.3s ease;
+}
+
+.fab:hover {
+  background-color: #555;
+  font-size: 18px; /* Increase the font size on hover */
+}
