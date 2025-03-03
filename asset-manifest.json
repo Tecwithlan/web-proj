@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/newdeploy/static/css/main.3df255f8.css",
+    "main.js": "/github.io/newdeploy/static/js/main.fa39e08e.js",
+    "static/js/453.27d45034.chunk.js": "/github.io/newdeploy/static/js/453.27d45034.chunk.js",
+    "static/media/profile.jpg": "/github.io/newdeploy/static/media/profile.622766d6ba85458e8936.jpg",
+    "index.html": "/github.io/newdeploy/index.html",
+    "main.3df255f8.css.map": "/github.io/newdeploy/static/css/main.3df255f8.css.map",
+    "main.fa39e08e.js.map": "/github.io/newdeploy/static/js/main.fa39e08e.js.map",
+    "453.27d45034.chunk.js.map": "/github.io/newdeploy/static/js/453.27d45034.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3df255f8.css",
+    "static/js/main.fa39e08e.js"
+  ]
+}
